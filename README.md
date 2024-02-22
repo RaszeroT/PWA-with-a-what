@@ -58,19 +58,22 @@ if-env@1.0.4
 
 ## Link to live site:
 
-<a href="">Live application</a>
+<a href="https://pwa-with-a-what-raszerot-6becbb9fa669.herokuapp.com/">Live application</a>
 
-## Images
+## Images:
 
+<img src="./images/readme-img.jpeg" width="600">
 
-
-## Credits
+## Credits:
+A huge help and understanding from:
 
 Ian Von Fange - TA
 
 Colin Bares - TA
 
 Wesley Clements - Tutor
+
+THANKYOU!!
 
 ## License
 
