@@ -67,7 +67,9 @@ if-env@1.0.4
 ## Credits
 
 Ian Von Fange - TA
+
 Colin Bares - TA
+
 Wesley Clements - Tutor
 
 ## License
